@@ -4,7 +4,7 @@
 $host = 'localhost';
 $dbname = 'basiccrud';
 $username = 'root';
-$password = 'xblood00dark';
+$password = '';
 
 /* Maak de database connectie */
 $connectStr = 'mysql: host=' . $host . ';dbname=' . $dbname . ';charset=utf8';
