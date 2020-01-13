@@ -10,7 +10,7 @@
     <form action="create-student.php" method="post">
         Voornaam: <input type="text" name="voornaam">
         Achternaam: <input type="text" name="achternaam">
-        <!--        Maak submit button-->
+        <input type="submit" name="submit" value="Send">
     </form>
 </body>
 </html>
