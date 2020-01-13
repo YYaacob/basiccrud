@@ -3,9 +3,6 @@
 $voornaam = $_POST['voornaam'];
 $achternaam = $_POST['achternaam'];
 
-
-//echo "Hello, $voornaam $achternaam";
-
 try {
     include "connectdb.php";
     $sql = "INSERT INTO student (voornaam, achternaam) VALUES ('$voornaam', '$achternaam')";

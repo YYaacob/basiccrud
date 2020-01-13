@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98c45f34-1a07-4ede-91f8-3d79a4066729" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/create-student-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/create-student-form.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/create-student.php" beforeDir="false" afterPath="$PROJECT_DIR$/create-student.php" afterDir="false" />
@@ -57,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578917277671</updated>
       <workItem from="1578917281138" duration="1631000" />
-      <workItem from="1578927202290" duration="5039000" />
+      <workItem from="1578927202290" duration="7640000" />
     </task>
     <servers />
   </component>
