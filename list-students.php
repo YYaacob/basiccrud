@@ -5,7 +5,7 @@ $sth = $db->prepare($sql);
 $sth->execute();
 ?>
 
-<table>
+<table class="table">
     <thead>
     <tr>
         <th>Id</th>
