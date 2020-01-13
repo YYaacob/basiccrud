@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98c45f34-1a07-4ede-91f8-3d79a4066729" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/connectdb.php" beforeDir="false" afterPath="$PROJECT_DIR$/connectdb.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/create-student-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/create-student-form.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/create-student.php" beforeDir="false" afterPath="$PROJECT_DIR$/create-student.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578917277671</updated>
       <workItem from="1578917281138" duration="1631000" />
-      <workItem from="1578927202290" duration="2754000" />
+      <workItem from="1578927202290" duration="5039000" />
     </task>
     <servers />
   </component>
@@ -63,9 +65,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="988" y="339" key="NewPhpFileDialog" timestamp="1578918159275">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="3155" y="428" key="NewPhpFileDialog" timestamp="1578931244858">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="3155" y="428" key="NewPhpFileDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1578931244858" />
     <state x="988" y="339" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1578918159275" />
   </component>
 </project>
