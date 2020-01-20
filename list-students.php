@@ -1,5 +1,6 @@
 <?php
 include "connectdb.php";
+//include "templates/header.php";
 $sql = "SELECT * FROM student";
 $sth = $db->prepare($sql);
 $sth->execute();
