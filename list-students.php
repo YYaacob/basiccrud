@@ -1,6 +1,6 @@
 <?php
 include "connectdb.php";
-include "templates/header.php";
+//include "templates/header.php";
 $sql = "SELECT * FROM student";
 $sth = $db->prepare($sql);
 $sth->execute();
@@ -24,4 +24,3 @@ $sth->execute();
     <?php } ?>
     </tbody>
 </table>
-<?php include "templates/footer.php"; ?>
