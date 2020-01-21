@@ -12,6 +12,7 @@ $sth->execute();
         <th>Id</th>
         <th>Voornaam</th>
         <th>Achternaam</th>
+        <th>Acties</th>
     </tr>
     </thead>
     <tbody>
@@ -20,6 +21,7 @@ $sth->execute();
             <td><?php echo $row["id"]; ?></td>
             <td><?php echo $row["voornaam"]; ?></td>
             <td><?php echo $row["achternaam"]; ?></td>
+            <td><a class="btn btn-info" href="update-student-form.php?id=<?php echo $row["id"]?>">Wijzig</a> <a class="btn btn-danger" href="delete-student.php?id=<?php echo $row["id"]?>">Wijzig</a></td>
         </tr>
     <?php } ?>
     </tbody>
